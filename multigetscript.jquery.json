@@ -1,0 +1,36 @@
+{
+    "name": "multigetscript",
+    "version": "1.0.0",
+    "title": "jQuery Multiple GetScript",
+    "author": {
+        "name": "James South",
+		"email": "james_south@hotmail.com",
+        "url": "https://github.com/jimbobsquarepants"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/MIT"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.7.0"
+    },
+    "description": "A series of jQuery plugins that allows the downloading of multiple JavaScript requests with a single call.",
+    "keywords": [
+        "getscript",
+        "ajax",
+		"cache"
+    ],
+    "homepage": "https://github.com/jimbobsquarepants/jquery.multgetscript",
+    "maintainers": [
+        {
+            "name": "James South",
+		    "email": "james_south@hotmail.com",
+            "url": "https://github.com/jimbobsquarepants"
+        }
+    ],
+    "files": [
+        "jquery.multigetscript.js"
+    ]
+}
