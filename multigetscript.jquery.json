@@ -1,7 +1,7 @@
 {
     "name": "multigetscript",
     "version": "1.0.0",
-    "title": "jQuery Multiple GetScript",
+    "title": "jQuery MultiGetScript",
     "author": {
         "name": "James South",
 		"email": "james_south@hotmail.com",
@@ -22,7 +22,7 @@
         "ajax",
 		"cache"
     ],
-    "homepage": "https://github.com/jimbobsquarepants/jquery.multgetscript",
+    "homepage": "https://github.com/jimbobsquarepants/jquery.multigetscript",
     "maintainers": [
         {
             "name": "James South",
